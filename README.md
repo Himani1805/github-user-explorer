@@ -1,1 +1,1 @@
-## Live Url - https://github-user-explorer-eta.vercel.app/
+## Live Demo - https://github-user-explorer-eta.vercel.app/
